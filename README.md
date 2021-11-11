@@ -1,2 +1,2 @@
-# ZaborHM
+# HM
 GitHub Pages
